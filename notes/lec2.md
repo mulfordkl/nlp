@@ -1,4 +1,4 @@
-## NLP Lecture 1, 1-24-2022
+## NLP Lecture 2, 1-24-2022
 
 ---
 
